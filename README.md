@@ -22,15 +22,15 @@ Usage:
 
 1. Clone the repository to your server:
 
-git clone https://github.com/your-username/server-cleanup-script.git
+       git clone https://github.com/iamshanmugananthan/server-clean.git
 
 2. Make the script executable:
 
-  chmod +x storage-clean.sh
+       chmod +x storage-clean.sh
 
 3. Run the script:
 
-  ./server_cleanup.sh
+       ./server_cleanup.sh
 
 Note:
 
